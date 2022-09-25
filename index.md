@@ -1,7 +1,7 @@
 # Nathan Karter
 
 ![A picture of me, I guess](/me.JPG)
-> A picture of me
+>A picture of me
 
 ## Introduction
 
@@ -9,7 +9,10 @@ Hello fellow CSE 110 classmates! I'm Nathan, a 3<sup>rd</sup> year Math-CS major
 
 ## Me as a Programmer
 
-So to be honest, I don't have much experience with programming outside of the classes here at UCSD. Although I've been fairly successful in the previous CSE courses, I am unsure how well that will translate to this class. Regardless, I am always ready to learned new techinques and skills that will help me improve as a programmer.
+So to be honest, I don't have much experience with programming outside of the classes here at UCSD. Although I've been fairly successful in the previous CSE courses, I am unsure how well that will translate to this class. Regardless, I am always ready to learned new techinques and skills that will help me improve as a programmer. Just for fun, I'd say my 3 best programming languages (in order) are:
+1. Java
+2. C++
+3. Python
 
 ## Me as a Person
 
