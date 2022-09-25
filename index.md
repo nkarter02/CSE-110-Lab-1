@@ -1,6 +1,7 @@
 # Nathan Karter
 
 ![A picture of me, I guess](/me.JPG)
+> A picture of me
 
 ## Introduction
 
