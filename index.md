@@ -5,7 +5,11 @@
 
 ## Introduction
 
-Hello fellow CSE 110 classmates! I'm Nathan, a 3<sup>rd</sup> year Math-CS major in Warren College. I'm originally from Irvine, so SoCal is an area I'm very familar with. I'm really excited to take this class as I think it'll be really helpful for my future career (I'm sure many of us want to be software engineers in the future, or at least *something* similar).
+Hello fellow CSE 110 classmates! I'm Nathan, a 3<sup>rd</sup> year Math-CS major in Warren College. I'm originally from Irvine, so SoCal is an area I'm very familar with. I'm really excited to take this class as I think it'll be really helpful for my future career (I'm sure many of us want to be software engineers in the future, or at least *something* similar). By the way, I'm also taking
+- [x] CSE 130
+- [ ] MATH 173A
+
+and I would be down to study with anyone else who is also in either of those classes.
 
 ## Me as a Programmer
 
@@ -22,4 +26,7 @@ Outside of school, I enjoy doing a wide variety of things. Firstly, I love explo
 - bowling
 - rock climbing
 
-~~although I'm still really bad at all of those~~. If any of those sound like something you'd like to do with me, feel free to DM me on Slack.
+~~although I'm still really bad at all of those~~. If any of those sound like something you'd also wanna do, feel free to DM me on Slack.
+
+## References
+Click [here](/refs.md) to see what sources I referenced while making this page.
